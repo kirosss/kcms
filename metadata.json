@@ -1,0 +1,5 @@
+{
+  "name": "Flexora - Physiotherapy & Wellness",
+  "description": "A premium physiotherapy, massage, and chiropractic wellness platform built with Next.js and Tailwind CSS.",
+  "requestFramePermissions": ["geolocation"]
+}
